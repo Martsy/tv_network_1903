@@ -77,7 +77,7 @@ pry(main)> require './lib/show'
 pry(main)> require './lib/character'
 # => true
 
-pry(main)> nbc = Network.new("NBC")
+pry(main)> ttr_
 # => #<Network:0x00007fe5f83ea3b0...>
 
 pry(main)> nbc.name
